@@ -85,3 +85,19 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+main {
+	margin: 0 200px 0 160px;
+	padding: 1px 10px 20px 10px;
+}
+main p {
+	margin:20px;
+}
+aside {
+		float:right;
+		width:200px;
+		padding:5px;
+}
+aside img {
+	margin: 0 auto;
+	display:block;
+}

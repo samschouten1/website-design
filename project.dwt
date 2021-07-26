@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Webiste Design</title>
-<link rel="stylesheet" href="style.css" type="text/css">
+<link rel="stylesheet" href="../../../My Site/style.css" type="text/css">
 </head>
 
 <body>
@@ -11,7 +11,7 @@
 <div id="container">
 
 <div id="header">
-	<img id="logo" src="images/logo.jpg" width="290" height="150" alt"" /> 
+	<img id="logo" src="logo.jpg" width="290" height="150" alt"" /> 
 		
 	</div>
 <div class="navbar">
@@ -37,9 +37,11 @@ class="dropbtn">Services<i class="fa fa-caret-down"></i></button>
 	<a href="#">Customer Testimonials</a>
 	<a href="#">Sitemap</a>
 	</div>
-	
+	<aside><!-- TemplateBeginEditable name="right panel" -->right panel<!-- TemplateEndEditable --></aside>
+	<main><!-- TemplateBeginEditable name="maincontent" -->main content<!-- TemplateEndEditable --> 
+	</main>
 	<div id="footer">
-		<h4>Home | 1050 Richard D. Sailors Pkwy, Suite 200 Powder Springs, GA 30172-1742| 770-943-8409<br> copyright &copy; 2021| <a href="sitemap.html">Sitemap</a>| <a href="credits.html">Credits</a></h4>
+		<h4>Home | 1050 Richard D. Sailors Pkwy, Suite 200 Powder Springs, GA 30172-1742| 770-943-8409<br> copyright &copy; 2021| <a href="../../../My Site/sitemap.html">Sitemap</a>| <a href="../../../My Site/credits.html">Credits</a></h4>
 		<p>
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
