@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Webiste Design</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="../group/style.css" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	
+<div id="container">
+
+<div id="header">
+	<img id="logo" src="../group/logo.jpg" width="290" height="150" alt"" /> 
+		
+	</div>
+<div class="navbar">
+<a href="#">Home</a>
+<a href="#">Meet Dr.Allen</a>
+<div class="dropdown">
+	<button 
+class="dropbtn">Services<i class="fa fa-caret-down"></i></button>
+	<div class="dropdown-content">
+		<a href="#">Chiropractic <br>Manipulation</a>
+		<a href="#">Ultrasound<br>Therapy</a>
+		<a href="#">Electrical<br>Muscle<br>Stimulation</a>
+		<a href="#">Cryotherapy</a>
+		<a href="#">X-Ray</a>
+		<a href="#">Subluxation<br>Treatment</a>
+	</div>
+	</div>
+	<a href="#">Directions</a>
+	<a href="#">Contact Us</a>
+	<a href="#">Feedback</a>
+	<a href="#">Credits</a>
+	<a href="#">FAQs</a>
+	<a href="#">Customer Testimonials</a>
+	<a href="#">Sitemap</a>
+	</div>
+	<aside><!-- TemplateBeginEditable name="right panel" --><img src="../group/chiropractic.jpeg" alt="" width="200" id="chripractic"><!-- TemplateEndEditable --></aside>
+	<main><!-- TemplateBeginEditable name="maincontent" -->
+		<h1>Services</h1>
+		<p><strong>Chiropractic Manipulation</strong></p>
+		<p><strong>Spinal Manipulation</strong></p>
+		<p>The most common therapeutic procedure performed by doctors of chiropractic, also called "chiropractic adjustment." The purpose of manipulation is to restore joint mobility by manually applying a controlled force into joints that have become hypomobile – or restricted in their movement – as a result of a tissue injury. Tissue injury can be caused by:</p>
+		<p>Single Tramatic Event</p>
+		<p>Improper lifting of a heavy object</p>
+		<p>Repetitive stresses</p>
+		<p>Sitting in an awkward position with poor spinal posture for an extended period of time</p>
+		<p>In either case, injured tissues undergo physical and chemical changes that can cause inflammation, pain, and diminished function for the sufferer. Manipulation, or adjustment of the affected joint and tissues, restores mobility, thereby alleviating pain and muscle tightness, and allowing tissues to heal.</p>
+		<!-- TemplateEndEditable --> 
+	</main>
+	<div id="footer">
+		<h4>Home | 1050 Richard D. Sailors Pkwy, Suite 200 Powder Springs, GA 30172-1742| 770-943-8409<br> copyright &copy; 2021| <a href="file:///C|/Users/sam/Desktop/My Site/sitemap.html">Sitemap</a>| <a href="file:///C|/Users/sam/Desktop/My Site/credits.html">Credits</a></h4>
+		<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+      
+	</div>
+	
+</div>
+	
+
+
+</body>
+</html>
